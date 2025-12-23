@@ -1,1 +1,23 @@
 .idea/
+model-pro/data/
+
+# Python相关
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv/
+.ipynb_checkpoints/
+
+# 临时文件
+*.tmp
+temp/
+
+*.zip
+*.tar
+*.gz
+*.7z
