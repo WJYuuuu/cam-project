@@ -3,3 +3,7 @@ torchvision>=0.10.0
 numpy>=1.19.5
 matplotlib>=3.3.4
 tqdm>=4.62.0
+
+onnx
+onnxsim
+onnxruntime
